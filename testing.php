@@ -4,4 +4,3 @@ what ever a mind can concieve it can achive.
 This is to test that i have done it successfully.
 
 
-Bajawe haye pandeji seeti..
