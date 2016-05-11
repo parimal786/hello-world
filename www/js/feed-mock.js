@@ -13,6 +13,7 @@ feed = (function () {
         {symbol: "JPM", open: 61.75},
         {symbol: "BAC", open: 15.84},
         {symbol: "BA", open: 154.50}
+        {symbol: "PS", open: 154.50}
     ];
 
     stocks.forEach(function(stock) {
